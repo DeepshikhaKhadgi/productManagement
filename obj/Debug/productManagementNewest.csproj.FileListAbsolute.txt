@@ -1,0 +1,5 @@
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\productManagementNewest\productManagementNewest\bin\productManagementNewest.dll
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\productManagementNewest\productManagementNewest\bin\productManagementNewest.pdb
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\productManagementNewest\productManagementNewest\obj\Debug\productManagementNewest.csprojResolveAssemblyReference.cache
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\productManagementNewest\productManagementNewest\obj\Debug\productManagementNewest.dll
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\productManagementNewest\productManagementNewest\obj\Debug\productManagementNewest.pdb
